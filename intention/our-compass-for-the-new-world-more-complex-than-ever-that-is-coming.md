@@ -34,8 +34,6 @@ SO WHAT? In a nutshell: we think that the timing and context are pretty good to 
 
 ![](https://cdn-images-1.medium.com/max/800/1*-Oc0AHYZx1rES3GOHXtYMg.jpeg)
 
-
-
 Our playground is the field of distributed energy systems organization. Like the **internets**, we strongly believe that distributed energy systems will help to develop distrisbuted autonomous energy organizations, thus providing strong and resilient answers to the here-above mentioned challenges.
 
 Such a playground gives us the following basic rules to play:
@@ -60,7 +58,7 @@ Relying on peer-to-peer energy transactions through micro-grid at the local leve
 
 ### _**3- Create “short circuits”**_
 
-Locally distributed energy systems that are interconnected one to another make it possible to take full advantage of diffuse local resources \(sun, wind, hydro, electro-chemical electricity production — from plants and bacteria…\) while strengthening the resilience of the system, since what’s produced locally is locally consumed. It also enable not to have a few single points of failure in the system.
+Locally distributed energy systems that are interconnected one to another make it possible to take full advantage of diffuse local resources \(sun, wind, hydro, electro-chemical electricity production — from plants and bacteria…\) while strengthening the resilience of the system, since what’s produced locally is locally consumed. It also enable not to have a few single points of failure in the system.
 
 ### _**4- Open energy governance**_
 
@@ -77,3 +75,4 @@ There are 3 packages in the master plan:
 * **Trusted transactions**: how to make it possible to make peer-to-peer energy transactions at the district / town / territory level? \(\#infrastructure and \#governance\)
 
 _Excited? Looking forwards to_ [_chat_](https://twitter.com/callmedaisee)_, share ideas and_ [_experiment together_](http://github.com/daisee)_! :-\)_
+

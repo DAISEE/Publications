@@ -11,13 +11,13 @@ description: >-
 
 ![](../.gitbook/assets/daisee.png)
 
-Up today, the easiest way to provide fairly important amounts of energy to a relatively big amount of people was to build big power plants \(from coal to nuclear also using gas and hydropower\) with heavy infrastructures \(big pipes that go through the territories and more little pipes that go from the substations to homes\). Such a system is relying on low-cost and abundant non-renewable resources.  
+Up today, the easiest way to provide fairly important amounts of energy to a relatively big amount of people was to build big power plants \(from coal to nuclear also using gas and hydropower\) with heavy infrastructures \(big pipes that go through the territories and more little pipes that go from the substations to homes\). Such a system is relying on low-cost and abundant non-renewable resources.
 
 With the increase of both local and global energy consumption, resources \(very fast\) depletion, climate change and... renewable energy costs plummeting, the system has started to evolve... So, more and more it looks like pretty much like that
 
-![](../.gitbook/assets/decentralized.png)
+![](https://github.com/DAISEE/publications/tree/7c2bc832fe61009d238e56b5fd325a01e0efe2b8/.gitbook/assets/decentralized.png)
 
-A more decentralized organization relying on diffuse renewable resources. This means that production points are more local and close to consumption points.  
+A more decentralized organization relying on diffuse renewable resources. This means that production points are more local and close to consumption points.
 
 However, such a system is based on existing infrastructures and local electricity producers are usually not the owners of the produced good \(electricity\) since they are constrains by regulatory laws making it compulsory either to sell the electricity to another bigger producer or a dispatcher, or to consume its own electricity.
 
@@ -75,8 +75,6 @@ There are 3 packages in the master plan:
 
 ![](../.gitbook/assets/bitethereum.png)
 
-
-
 ## **What are the provisional development steps?**
 
 1. Energy monitoring : set up sensors, check various data transfer and data.
@@ -104,7 +102,7 @@ There are 3 packages in the master plan:
 * [**Paul Flipo**](https://fr.linkedin.com/in/paul-flipo-b2bb667/fr): hardware guy, open source fan, unstoppable traveller.
 * [**Samira Rabaaôui**](https://fr.linkedin.com/in/samirarabaaoui/fr): magic hacker, innovation enthusiast, biologist.
 * [**Xavier Lavayssière**](https://www.linkedin.com/in/lavayssiere/fr): startuper \([**ECAN**](http://ecan.fr)\), fast coder, creative lawyer.
-*  [**Aude Omeri**](https://fr.linkedin.com/in/audeomerin): community builder, happiness catalyst, [**IDEA**](http://masters.em-lyon.com/fr/Programme-I.D.E.A) student.
+* [**Aude Omeri**](https://fr.linkedin.com/in/audeomerin): community builder, happiness catalyst, [**IDEA**](http://masters.em-lyon.com/fr/Programme-I.D.E.A) student.
 * [**Louis Villard**](https://twitter.com/louisvlrd): creative hacker, engaged in science popularization.
 * [**Timothée Gosselin**](https://fr.linkedin.com/in/timothÃ©e-gosselin-14264b25): co-founder / builder of [**OSCEDays**](http://osced2015.org/) community.
 * [**Nicolas Loubet**](https://twitter.com/nicolasloubet?lang=fr) & [**Clement Epié**](https://twitter.com/clement_epie): co-founders of Cellabz. Curious.
@@ -131,3 +129,4 @@ There are 3 packages in the master plan:
 
 * What is the right economic model between the houses ? Which features, deal should be implemented in the smart contract ?
 * how do we deal with the necessary energy governance ? To solve: in this configuration, we still need some kind of network regulation/governance, so that there is enough energy available for everyone to buy \(or that the produced energy will be used\). Batteries/energy storage ? The governance between actors is managed via the blockchain, but the "energy governance" must still be managed/solved somehow.
+

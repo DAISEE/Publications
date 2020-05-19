@@ -4,7 +4,7 @@ It's for sure that the DAISEE adventure has started long before all this. But, i
 
 {% embed url="https://www.youtube.com/watch?v=qMsDozl4wjI" %}
 
-## From conference stage to workshop to private community masterclass : introduction to ethereum and DAO
+## From conference stage, to workshop, to private community masterclass : introduction to ethereum and DAO
 
 The first day we were introduced to blockchain and DAO by Stephan Tual
 
