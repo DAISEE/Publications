@@ -20,7 +20,7 @@ and finally with Primavera de Filippi
 
 all this gave us a glimps of the actual variety of the propositions and core technology.
 
-
+So we've decided to go further into details with our guests and... some other ones with the workshop "[Blockchain and beyond](https://paper.dropbox.com/doc/LIFT16-Blockchain-Beyond--A0MH~qVJbXes1rR_UdMYNCWrAQ-d56JxlAJYJTre8nTdn4oO)".
 
 
 
