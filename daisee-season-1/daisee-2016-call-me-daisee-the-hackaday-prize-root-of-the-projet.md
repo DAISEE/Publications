@@ -9,16 +9,16 @@ description: >-
 
 ## From centralized to distributed thinking
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/daisee.png)
 
 Up today, the easiest way to provide fairly important amounts of energy to a relatively big amount of people was to build big power plants \(from coal to nuclear also using gas and hydropower\) with heavy infrastructures \(big pipes that go through the territories and more little pipes that go from the substations to homes\). Such a system is relying on low-cost and abundant non-renewable resources.  
-  
+
 With the increase of both local and global energy consumption, resources \(very fast\) depletion, climate change and... renewable energy costs plummeting, the system has started to evolve... So, more and more it looks like pretty much like that
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/decentralized.png)
 
 A more decentralized organization relying on diffuse renewable resources. This means that production points are more local and close to consumption points.  
-  
+
 However, such a system is based on existing infrastructures and local electricity producers are usually not the owners of the produced good \(electricity\) since they are constrains by regulatory laws making it compulsory either to sell the electricity to another bigger producer or a dispatcher, or to consume its own electricity.
 
 There are mainly 4 problems:
@@ -37,7 +37,7 @@ The are then 4 big issues levels:
 
 The solution that is proposed here to solve those problems is to experiment and move towards a \(more\) DISTRIBUTED energy systems organization, like that
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/distributed.png)
 
 Like the internets we strongly believe that DISTRIBUTED energy systems will help to develop DECENTRALIZED AUTONOMOUS energy ORGANIZATIONS, thus providing strong and resilient answers to the here-above mentioned challenges.
 
@@ -69,11 +69,11 @@ There are 3 packages in the master plan:
 * **Machine dialogue**: how to make objects take consensual decisions while dealing energy-token between them about who’s consuming what-when-how they contribute to energy consumption reduction ?
 * **Trusted transactions**: how to make it possible to make peer-to-peer energy transactions at the district / town / territory level
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/step1poc.png)
 
-![The Decentralized Autonomous energy Organizations \(DAOs\) are Ethereum based.](../.gitbook/assets/image%20%287%29.png)
+![The Decentralized Autonomous energy Organizations \(DAOs\) are Ethereum based.](../.gitbook/assets/step2expe.png)
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/bitethereum.png)
 
 
 
@@ -131,4 +131,3 @@ There are 3 packages in the master plan:
 
 * What is the right economic model between the houses ? Which features, deal should be implemented in the smart contract ?
 * how do we deal with the necessary energy governance ? To solve: in this configuration, we still need some kind of network regulation/governance, so that there is enough energy available for everyone to buy \(or that the produced energy will be used\). Batteries/energy storage ? The governance between actors is managed via the blockchain, but the "energy governance" must still be managed/solved somehow.
-

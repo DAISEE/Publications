@@ -4,7 +4,7 @@ description: 09/12/2016 CC-BY-SA (International 4.0)
 
 # Our compass for the new world \(more complex than ever\) that is coming
 
-![Light Energy, Thomas Quine \[CC-BY 2.0\]](../.gitbook/assets/1-qab9dzuv20jwu7lbtlarvw.jpeg)
+![Light Energy, Thomas Quine \[CC-BY 2.0\]](../.gitbook/assets/compass.jpeg)
 
 ## From centralized energy to distributed power
 
@@ -77,4 +77,3 @@ There are 3 packages in the master plan:
 * **Trusted transactions**: how to make it possible to make peer-to-peer energy transactions at the district / town / territory level? \(\#infrastructure and \#governance\)
 
 _Excited? Looking forwards to_ [_chat_](https://twitter.com/callmedaisee)_, share ideas and_ [_experiment together_](http://github.com/daisee)_! :-\)_
-
