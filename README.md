@@ -16,7 +16,7 @@ In practice, we’re working on several \(proto-\) designs of ‘open-source bas
 
 ## DAISEE : an open-design program
 
-We bootstrap DAISEE in 2016 as an **open-design program** co-produced by [La M\[Y\]NE](http://lamyne.org) \(a ‘[tiers-lieu](https://en.wikipedia.org/wiki/Third_place)’ based in [Lyon](http://www.openstreetmap.org/relation/1663048#map=10/45.7488/4.8766) dedicated to sustainable issues\) and [CELLABZ](http://cellabz.com/) \(a ‘labs builder’ who facilite the appropriation of all the emerging technologies\), with the very precious help of the [CitizenWatt](http://www.citizenwatt.paris) community.
+We bootstrap DAISEE in 2016 as an **open-design program** co-produced by [La M\[Y\]NE](http://lamyne.org) \(a ‘[tiers-lieu](https://en.wikipedia.org/wiki/Third_place)’ based in [Lyon](http://www.openstreetmap.org/relation/1663048#map=10/45.7488/4.8766) dedicated to sustainable issues\) and [CELLABZ](https://web.archive.org/web/20180310094041/http://cellabz.com/) \(a ‘labs builder’ who facilite the appropriation of all the emerging technologies\), with the very precious help of the [CitizenWatt](http://www.citizenwatt.paris) community.
 
 The **core contributors** have federated during the [Hackaday Prize 2016](https://hackaday.io/project/10879-internets-of-energy-call-me-daisee):
 
