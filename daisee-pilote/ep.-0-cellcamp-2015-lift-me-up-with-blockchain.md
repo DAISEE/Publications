@@ -1,6 +1,6 @@
 # Ep. 0 - Cellcamp 2015 - Lift me up with blockchain
 
-It's for sure that the DAISEE adventure has started long before all this. But, if we were to find a begining, undoubtedly it was during the three days of residence organized by Cellabz around the [2015 Lift conference](http://liftconference.com/) [blockchain track ](https://www.youtube.com/watch?v=qMsDozl4wjI)gathering curious mind on various topics adn from diverse backgrounds.
+It's for sure that the DAISEE adventure has started long before all this. But, if we were to find a begining, undoubtedly it was during the three days of residence organized by Cellabz around the [2015 Lift conference](http://liftconference.com/) [blockchain track ](https://www.youtube.com/watch?v=qMsDozl4wjI)gathering curious mind on various topics adn from diverse backgrounds. In fact, it all began with a talk about with Clement and Nicolas about blockchain ...
 
 {% embed url="https://www.youtube.com/watch?v=qMsDozl4wjI" %}
 
