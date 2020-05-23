@@ -15,7 +15,7 @@ Up today, the easiest way to provide fairly important amounts of energy to a rel
 
 With the increase of both local and global energy consumption, resources \(very fast\) depletion, climate change and... renewable energy costs plummeting, the system has started to evolve... So, more and more it looks like pretty much like that
 
-![](../.gitbook/assets/decentralized.png)
+![](../.gitbook/assets/decentralized.jpg)
 
 A more decentralized organization relying on diffuse renewable resources. This means that production points are more local and close to consumption points.
 
