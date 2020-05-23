@@ -35,11 +35,11 @@ all this giving us a glimps of the actual variety of the propositions and core t
 
 We then went further into details with our guests and... some other ones with the workshop "[Blockchain and beyond](https://paper.dropbox.com/doc/LIFT16-Blockchain-Beyond--A0MH~qVJbXes1rR_UdMYNCWrAQ-d56JxlAJYJTre8nTdn4oO)". [Audio transciption of the discussion](https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fhanniju%2F01-lift16-workshop%2F)
 
-![Slockit workshop \(Nicolas Loubet, CC-BY-NC-SA 4.0\)](https://github.com/DAISEE/publications/blob/master/.gitbook/assets/slockit_workshop.jpeg)
+![Slockit workshop \(Nicolas Loubet, CC-BY-NC-SA 4.0\)](../.gitbook/assets/slockit_workshop.jpeg)
 
 We ended-up the workshop on this slide, which will highly drive the vision model of an energy DAO in our thinking at DAISEE :
 
-![Slockit DAO model presentation \(Nicolas Loubet, CC-BY-NC-SA 4.0\)](https://github.com/DAISEE/publications/blob/master/.gitbook/assets/slockit_daomodel.jpeg)
+![Slockit DAO model presentation \(Nicolas Loubet, CC-BY-NC-SA 4.0\)](../.gitbook/assets/slockit_daomodel.jpeg)
 
 ## 2nd step : dig in and homeworking.
 
@@ -49,17 +49,17 @@ Here comes the cellcamp !!! It's time for our insatiable curiosity to fully take
 
 To dig in complex intricated community driven crypto technologies it is necessary to go "drink at the source" - as a friend of ours would say ! One of the source, was the instigators of [Slockit](https://slock.it/) and more particularly the ones behind [the DAO](https://en.wikipedia.org/wiki/The_DAO_(organization)), namely Stephan Tual, Simon Jentzsch, Christoph Jentzsch. We had the chance and opportunity for a private masterclass with Stepahn and Christoph as well as 2 full days of pratice with them both to mentor us.
 
-![CellCamp Masterclass Ethereum and Smart Contract \(Nicolas Loubet, CC-BY-NC-SA 4.0\)](https://github.com/DAISEE/publications/blob/master/.gitbook/assets/cellcamp_masterclass.jpeg)
+![CellCamp Masterclass Ethereum and Smart Contract \(Nicolas Loubet, CC-BY-NC-SA 4.0\)](../.gitbook/assets/cellcamp_masterclass.jpeg)
 
 > If you want to [know more about Stephan Tual at that time](https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fhanniju%2F02-stephan-tual-interview%2F)
 
 Then, while drinking directly to the source of the knowledge and experience - remember that we're early in 2016 and blockchains are mainstreams bullsht topic to discuss -, linking both theory and practice through praticing strongly helps appropriation and determining what are the key elements to bear in mind while working a topic through the prism of the Ethereum blockchain ! The process necessarily goes through an [Ethereum Install Party](https://paper.dropbox.com/doc/cellcamp-Documentation-V0.1--A0PaEs0pbfF9n5NRlwYI13EgAg-BG6sbFf2oaFd4813wvtls#:uid=661792681317628938187367&h2=IV--13-02-2016---Ethereum-Inst) !
 
-![CellCamp Workshop Ethereum and Smart Contract \(Nicolas Loubet, CC-BY-NC-SA 4.0\)](https://github.com/DAISEE/publications/blob/master/.gitbook/assets/cellcamp_workshop.jpeg)
+![CellCamp Workshop Ethereum and Smart Contract \(Nicolas Loubet, CC-BY-NC-SA 4.0\)](../.gitbook/assets/cellcamp_workshop.jpeg)
 
 At the end of this 2nd step, which is also the 2nd day of the residence we know a bit more about blockchains, and more specifically Ethereum, we're all a node of a local blockchain on our computer further to the install party, we've started mining some ethers, trade them, and finally we've started to dig in the smart-contract stuff - which are not "smart" neither "contract" !
 
-![CellCamp - First mining on ethereum blockchain after Ethereum Install Party \(Nicolas Loubet, CC-BY-NC-SA 4.0\)](.../gitbook/assets/cellcamp_installparty.jpeg)
+![CellCamp - First mining on ethereum blockchain after Ethereum Install Party \(Nicolas Loubet, CC-BY-NC-SA 4.0\)](../.gitbook/assets/cellcamp_installparty.jpeg)
 
 ## 3rd step : working the energy topic !
 
@@ -68,7 +68,7 @@ At the end of this 2nd step, which is also the 2nd day of the residence we know 
 
 ### Use case n°1 : energy with [Open Energy Monitor](https://openenergymonitor.org/) (OEM)
 
-![Rieul Techer, C-BY-SA](https://github.com/DAISEE/publications/blob/master/.gitbook/assets/cellcamp_oem.jpeg)
+![Rieul Techer, C-BY-SA](../.gitbook/assets/cellcamp_oem.jpeg)
 
 **Set-up** :
 1. An OEM in 2 differents places : at [la MYNE](https://lamyne.org) and at [la Maison Jules Vernes](https://movilab.org/wiki/La_maison_Jules_Verne).
@@ -101,7 +101,7 @@ At the end of this 2nd step, which is also the 2nd day of the residence we know 
 * if no device produces energy, "reputation-tokens" are traded between devices depending on the deviation to the mean consumption curve value;
 * if overconsumption cannot be compensate within the pool of devices "reputation-tokens" are traded between devices depending on the deviation to the mean consumption curve value.
 
-![Rieul Techer, C-BY-SA](https://github.com/DAISEE/publications/blob/master/.gitbook/assets/cellcamp_energy.jpeg)
+![Rieul Techer, C-BY-SA](../.gitbook/assets/cellcamp_energy.jpeg)
 
 ### Final use case
 
@@ -123,7 +123,7 @@ At the end of this 2nd step, which is also the 2nd day of the residence we know 
 
 > This production is under the [Peer Production License](https://wiki.p2pfoundation.net/Peer_Production_License) terms.
 
-![](https://github.com/DAISEE/publications/blob/master/.gitbook/assets/ppl.png)
+![Peer Production License Logo](../.gitbook/assets/ppl.png)
 
 > The peer production license is an example of the [Copyfair](https://wiki.p2pfoundation.net/CopyFair_License) type of license, in which only other commoners, cooperatives and nonprofits can share and re-use the material, but not commercial entities intent on making profit through the commons without explicit reciprocity
 >
