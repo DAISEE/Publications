@@ -35,7 +35,7 @@ all this giving us a glimps of the actual variety of the propositions and core t
 
 We then went further into details with our guests and... some other ones with the workshop "[Blockchain and beyond](https://paper.dropbox.com/doc/LIFT16-Blockchain-Beyond--A0MH~qVJbXes1rR_UdMYNCWrAQ-d56JxlAJYJTre8nTdn4oO)". [Audio transciption of the discussion](https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fhanniju%2F01-lift16-workshop%2F)
 
-![Slockit workshop \(Nicolas Loubet, CC-BY-NC-SA 4.0\)](.../gitbook/assets/slockit_workshop.jpeg)
+![Slockit workshop \(Nicolas Loubet, CC-BY-NC-SA 4.0\)](.../.gitbook/assets/slockit_workshop.jpeg)
 
 We ended-up the workshop on this slide, which will highly drive the vision model of an energy DAO in our thinking at DAISEE :
 
