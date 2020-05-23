@@ -9,7 +9,15 @@ description: >-
 It's for sure that the DAISEE adventure has started long before all this.  In fact, it all began with a talk about with Clement and Nicolas about blockchain ... Indeed, at the end of 2015 Clément and Nicolas has been following the "Sydney Blockchain Workshops" co-organized by [Cellabz](https://web.archive.org/web/20180105201128/http://cellabz.com/) and [COALA](https://www.coalaip.org/), and more specifically the "[Innovation Challenge](https://docs.google.com/document/d/1c4VOrnsaiucLJY8r34XaTpF3IbIQzr27NdVH6fo8bJo/edit?usp=sharing)". It turns out that an energy project (Elethron) has picked or curiosity, and there starts the DAISEE story : what if we were working the - reductive topic - blockchain-energy in an citizenlab environment like [la MYNE](https://lamyne.org) ?
 Thus, if we were to find a begining to all this, undoubtedly it was further our discussions early in 2016, during the three days of residence organized by Cellabz around the [2016 Lift conference](http://liftconference.com/) [blockchain track ](https://www.youtube.com/watch?v=qMsDozl4wjI)gathering curious minds on various topics and from diverse backgrounds.
 
+> If you're wondering what's a CellCamp - in french
+
+<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fhanniju%2F03-pr%C3%A9sentation-du-cellcamp%2F" frameborder="0" ></iframe>
+
 {% embed url="https://www.youtube.com/watch?v=qMsDozl4wjI" %}
+
+> If you want to trace back via audio the disussion, do not hesitate to listen to
+
+<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fhanniju%2Fplaylists%2Flift16-cellcamp%2F" frameborder="0" ></iframe>
 
 ## 1st step : jump in !
 
@@ -34,6 +42,8 @@ all this giving us a glimps of the actual variety of the propositions and core t
 We then went further into details with our guests and... some other ones with the workshop "[Blockchain and beyond](https://paper.dropbox.com/doc/LIFT16-Blockchain-Beyond--A0MH~qVJbXes1rR_UdMYNCWrAQ-d56JxlAJYJTre8nTdn4oO)".
 
 ![Slockit workshop \(Nicolas Loubet, CC-BY-NC-SA 4.0\)](.../gitbook/assets/slockit_workshop.jpeg)
+
+<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fhanniju%2F01-lift16-workshop%2F" frameborder="0" ></iframe>
 
 We ended-up the workshop on this slide, which will highly drive the vision model of an energy DAO in our thinking at DAISEE :
 
