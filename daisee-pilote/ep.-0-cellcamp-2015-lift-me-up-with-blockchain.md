@@ -11,9 +11,7 @@ Thus, if we were to find a begining to all this, undoubtedly it was further our 
 
 {% embed url="https://www.youtube.com/watch?v=qMsDozl4wjI" %}
 
-> If you want to trace back via audio the disussion, do not hesitate to listen to
-
-{% embed url="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fhanniju%2Fplaylists%2Flift16-cellcamp%2F"}
+> If you want to trace back via audio the disussion, do not hesitate to listen to the [audio](https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fhanniju%2Fplaylists%2Flift16-cellcamp%2F)
 
 ## 1st step : jump in !
 
@@ -35,11 +33,9 @@ and finally with Primavera de Filippi
 
 all this giving us a glimps of the actual variety of the propositions and core technology.
 
-We then went further into details with our guests and... some other ones with the workshop "[Blockchain and beyond](https://paper.dropbox.com/doc/LIFT16-Blockchain-Beyond--A0MH~qVJbXes1rR_UdMYNCWrAQ-d56JxlAJYJTre8nTdn4oO)".
+We then went further into details with our guests and... some other ones with the workshop "[Blockchain and beyond](https://paper.dropbox.com/doc/LIFT16-Blockchain-Beyond--A0MH~qVJbXes1rR_UdMYNCWrAQ-d56JxlAJYJTre8nTdn4oO)". [Audio transciption of the discussion](https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fhanniju%2F01-lift16-workshop%2F)
 
 ![Slockit workshop \(Nicolas Loubet, CC-BY-NC-SA 4.0\)](.../gitbook/assets/slockit_workshop.jpeg)
-
-<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fhanniju%2F01-lift16-workshop%2F" frameborder="0" ></iframe>
 
 We ended-up the workshop on this slide, which will highly drive the vision model of an energy DAO in our thinking at DAISEE :
 
@@ -49,17 +45,13 @@ We ended-up the workshop on this slide, which will highly drive the vision model
 
 Here comes the cellcamp !!! It's time for our insatiable curiosity to fully take place.
 
-> If you're wondering what's a CellCamp - in french
-
-<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fhanniju%2F03-pr%C3%A9sentation-du-cellcamp%2F" frameborder="0" ></iframe>
+> If you're wondering [what's a CellCamp - in french](https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fhanniju%2F03-pr%C3%A9sentation-du-cellcamp%2F)
 
 To dig in complex intricated community driven crypto technologies it is necessary to go "drink at the source" - as a friend of ours would say ! One of the source, was the instigators of [Slockit](https://slock.it/) and more particularly the ones behind [the DAO](https://en.wikipedia.org/wiki/The_DAO_(organization)), namely Stephan Tual, Simon Jentzsch, Christoph Jentzsch. We had the chance and opportunity for a private masterclass with Stepahn and Christoph as well as 2 full days of pratice with them both to mentor us.
 
 ![CellCamp Masterclass Ethereum and Smart Contract \(Nicolas Loubet, CC-BY-NC-SA 4.0\)](.../gitbook/assets/cellcamp_masterclass.jpeg)
 
-> If you want to know more about Stephan Tual at that time
-
- <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fhanniju%2F02-stephan-tual-interview%2F" frameborder="0" ></iframe>
+> If you want to [know more about Stephan Tual at that time](https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fhanniju%2F02-stephan-tual-interview%2F)
 
 Then, while drinking directly to the source of the knowledge and experience - remember that we're early in 2016 and blockchains are mainstreams bullsht topic to discuss -, linking both theory and practice through praticing strongly helps appropriation and determining what are the key elements to bear in mind while working a topic through the prism of the Ethereum blockchain ! The process necessarily goes through an [Ethereum Install Party](https://paper.dropbox.com/doc/cellcamp-Documentation-V0.1--A0PaEs0pbfF9n5NRlwYI13EgAg-BG6sbFf2oaFd4813wvtls#:uid=661792681317628938187367&h2=IV--13-02-2016---Ethereum-Inst) !
 
