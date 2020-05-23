@@ -13,7 +13,7 @@ Thus, if we were to find a begining to all this, undoubtedly it was further our 
 
 > If you want to trace back via audio the disussion, do not hesitate to listen to
 
-<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fhanniju%2Fplaylists%2Flift16-cellcamp%2F" frameborder="0" ></iframe>
+{% embed url="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fhanniju%2Fplaylists%2Flift16-cellcamp%2F"}
 
 ## 1st step : jump in !
 
