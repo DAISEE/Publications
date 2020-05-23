@@ -16,5 +16,5 @@
 
 ## DAISEE - Season 1
 
-* [DAISEE 2016 - Call Me DAISEE : the hackaday prize root of the projet](daisee-season-1/daisee-2016-call-me-daisee-the-hackaday-prize-root-of-the-projet.md)
+* [Ep. 1 - Call Me DAISEE : the hackaday prize root of the projet](daisee-season-1/daisee-2016-call-me-daisee-the-hackaday-prize-root-of-the-projet.md)
 

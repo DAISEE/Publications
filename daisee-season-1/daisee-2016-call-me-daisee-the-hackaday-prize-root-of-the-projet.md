@@ -5,7 +5,7 @@ description: >-
   CC-BY-SA (International 4.0).
 ---
 
-# DAISEE 2016 - Call Me DAISEE : the hackaday prize root of the projet
+# Ep. 1 - Call Me DAISEE : the hackaday prize root of the projet
 
 ## From centralized to distributed thinking
 
