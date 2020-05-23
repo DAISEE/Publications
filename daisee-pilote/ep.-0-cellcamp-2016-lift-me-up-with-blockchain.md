@@ -6,6 +6,8 @@ description: This production is under the Peer Production License terms.
 
 It's for sure that the DAISEE adventure has started long before all this. In fact, it all began with a talk about with Clement and Nicolas about blockchain ... Indeed, at the end of 2015 Clément and Nicolas has been following the "Sydney Blockchain Workshops" co-organized by [Cellabz](https://web.archive.org/web/20180105201128/http://cellabz.com/) and [COALA](https://www.coalaip.org/), and more specifically the "[Innovation Challenge](https://docs.google.com/document/d/1c4VOrnsaiucLJY8r34XaTpF3IbIQzr27NdVH6fo8bJo/edit?usp=sharing)". It turns out that an energy project \(Elethron - energy project based on the [Ethereum blockchain](https://ethereum.org/)\) has picked or curiosity, and there starts the DAISEE story : what if we were working the - reductive topic - blockchain-energy in an citizenlab environment like [la MYNE](https://lamyne.org) ? Thus, if we were to find a begining to all this, undoubtedly it was further our discussions early in 2016, during the three days of residence organized by Cellabz around the [2016 Lift conference](http://liftconference.com/) [blockchain track ](https://www.youtube.com/watch?v=qMsDozl4wjI)gathering curious minds on various topics and from diverse backgrounds.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qMsDozl4wjI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 {% embed url="https://www.youtube.com/watch?v=qMsDozl4wjI" caption="" %}
 
 > If you want to trace back via audio the disussion, do not hesitate to listen to the [audio](https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fhanniju%2Fplaylists%2Flift16-cellcamp%2F)
