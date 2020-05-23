@@ -7,7 +7,7 @@ description: >-
 
 # DAISEE - What does "citizen based research program" means for energy transition ?
 
-![Contributive Research Residence at Prats de Mollo \(Rieul Techer, CC-BY-NC-SA 4.0\)](https://github.com/DAISEE/publications/tree/7c2bc832fe61009d238e56b5fd325a01e0efe2b8/gitbook/assets/daisee-citizen-research-program_prats.jpg)
+![Contributive Research Residence at Prats de Mollo \(Rieul Techer, CC-BY-NC-SA 4.0\)](../.gitbook/assets/daisee-citizen-research-program.jpg)
 
 In a context of climate change fight and growing resources scarcity, renewable energy sources are known to play a more and more central role in energy production. Nevertheless, the penetration of high share of renewable energy sources in electricity production raises intricate issues concerning the power system management : the variability of their output, their relatively low predictability and their low inertia make them unsuitable for a proper control in order to guarantee the supply - demand equilibrium. Two very opposite strategies can be depicted to help their integration :
 
@@ -125,4 +125,3 @@ In the case of our contributive residencies for instance, methodology process ca
 > The peer production license is an example of the [Copyfair](https://wiki.p2pfoundation.net/CopyFair_License) type of license, in which only other commoners, cooperatives and nonprofits can share and re-use the material, but not commercial entities intent on making profit through the commons without explicit reciprocity
 >
 > This article is based on an original [application to the Axa Research Fund](https://docs.google.com/document/d/1VnmetHkyE-zxc2WmkZH3QzQvyjzNczNathljPmJOKL4/edit?usp=sharing) co-produced by [La MYNE](https://lamyne.org/), Cellabz, [CNRS Promes](https://promes.cnrs.fr/) and [PratsEnR](https://cloud.lamyne.org/s/4Z2agRHmLy9CbiS) which usage is under the CC-BY-SA license terms.
-

@@ -117,4 +117,3 @@ At the end of this 2nd step, which is also the 2nd day of the residence we know 
 > The peer production license is an example of the [Copyfair](https://wiki.p2pfoundation.net/CopyFair_License) type of license, in which only other commoners, cooperatives and nonprofits can share and re-use the material, but not commercial entities intent on making profit through the commons without explicit reciprocity
 >
 > This article is based on an original [application to the Axa Research Fund](https://docs.google.com/document/d/1VnmetHkyE-zxc2WmkZH3QzQvyjzNczNathljPmJOKL4/edit?usp=sharing) co-produced by [La MYNE](https://lamyne.org/), Cellabz, [CNRS Promes](https://promes.cnrs.fr/) and [PratsEnR](https://cloud.lamyne.org/s/4Z2agRHmLy9CbiS) which usage is under the CC-BY-SA license terms.
-

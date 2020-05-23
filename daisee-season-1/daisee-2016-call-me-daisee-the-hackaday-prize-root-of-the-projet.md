@@ -15,7 +15,7 @@ Up today, the easiest way to provide fairly important amounts of energy to a rel
 
 With the increase of both local and global energy consumption, resources \(very fast\) depletion, climate change and... renewable energy costs plummeting, the system has started to evolve... So, more and more it looks like pretty much like that
 
-![](https://github.com/DAISEE/publications/tree/7c2bc832fe61009d238e56b5fd325a01e0efe2b8/.gitbook/assets/decentralized.png)
+![](../.gitbook/assets/decentralized.png)
 
 A more decentralized organization relying on diffuse renewable resources. This means that production points are more local and close to consumption points.
 
@@ -129,4 +129,3 @@ There are 3 packages in the master plan:
 
 * What is the right economic model between the houses ? Which features, deal should be implemented in the smart contract ?
 * how do we deal with the necessary energy governance ? To solve: in this configuration, we still need some kind of network regulation/governance, so that there is enough energy available for everyone to buy \(or that the produced energy will be used\). Batteries/energy storage ? The governance between actors is managed via the blockchain, but the "energy governance" must still be managed/solved somehow.
-
