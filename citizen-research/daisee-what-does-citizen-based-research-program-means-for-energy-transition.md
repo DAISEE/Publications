@@ -122,7 +122,7 @@ In the case of our contributive residencies for instance, methodology process ca
 
 > This production is under the [Peer Production License](https://wiki.p2pfoundation.net/Peer_Production_License) terms.
 
-![](https://gblobscdn.gitbook.com/assets%2F-M6VKPe9oVJItQUnu1AL%2F-M7ckwVZNcLb8PAz-mu4%2F-M7cnVcgBE9EFrMvQ-KZ%2FPPL.png?alt=media&token=c5f5bda1-503f-41e6-a7ac-20fd73857aae)
+![](../.gitbook/assets/ppl.png)
 
 > The peer production license is an example of the [Copyfair](https://wiki.p2pfoundation.net/CopyFair_License) type of license, in which only other commoners, cooperatives and nonprofits can share and re-use the material, but not commercial entities intent on making profit through the commons without explicit reciprocity
 >
