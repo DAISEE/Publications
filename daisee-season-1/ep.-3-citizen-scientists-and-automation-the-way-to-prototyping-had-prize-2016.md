@@ -7,3 +7,7 @@ description: >-
 
 # Ep. 3 - Citizen scientists and automation, the way to prototyping \[HaD Prize 2016\]
 
+![Hackaday Prize 2016 : &quot;Citizen Scientist&quot; &amp; &quot;Automation&quot;](../.gitbook/assets/hackaday-prize-csa.png)
+
+
+
