@@ -7,13 +7,15 @@ description: >-
 
 # Ep. 1 - Call Me DAISEE : the hackaday prize root of the projet
 
-![](../.gitbook/assets/logo_hackadayprize2016.png)
+![](../.gitbook/assets/had-prize-daisee.png)
 
 ## Preliminary note : What's the [Hackaday Prize challenge](https://hackaday.io/contest/10144-the-2016-hackaday-prize) ? 
 
 ### "Build Something That Matters"
 
 The Hackaday Prize is empowering hackers, designers, and engineers to use their time to **Build Something that Matters**. For the next five weeks what matters is solving a technology problem. Have an idea to power vehicles without polluting the atmosphere? Great! Want to figure out how to get your washing machine to work better? We want to see that too. Anything goes so design it, prototype it, document it and you could be one of the twenty entries headed to the final round.
+
+![](../.gitbook/assets/logo_hackadayprize2016.png)
 
 > We're asking for solutions to address technology issues facing humanity today. With a new technical design challenge every 5 weeks, you are expanding the frontiers of knowledge and engineering. Design an impactful project that suits you, or collaborate with someone else to do it. With our global collaboration platform, your project can be moving forward at all hours of the day. Create things like a better radiation monitoring system, a better calorimeter, open source instrumentation, digital logging scales and exercise trackers.
 >
