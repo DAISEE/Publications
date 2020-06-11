@@ -5,7 +5,7 @@ description: >-
   4.0).
 ---
 
-# Ep. 2 - Hackaday Prize 2016 : design, concept and anything goes
+# Ep. 2 - Design, concept and anything goes \[HaD Prize 2016\]
 
 ![Hackaday Prize : Design your concept &amp; Anything Goes](../.gitbook/assets/hackaday-prize-dcag.png)
 

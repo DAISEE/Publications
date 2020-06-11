@@ -5,7 +5,7 @@ description: >-
   CC-BY-SA (International 4.0).
 ---
 
-# Ep. 1 - Call Me DAISEE : the hackaday prize root of the projet
+# Ep. 1 - Hackaday Prize 2016 : "Call Me DAISEE" or the root of the program
 
 ![](../.gitbook/assets/had-prize-daisee.png)
 
