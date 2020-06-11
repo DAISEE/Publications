@@ -12,7 +12,7 @@ In a nutshell, if we were to find a begining to all this, undoubtedly it was fur
 
 {% embed url="https://www.youtube.com/watch?v=qMsDozl4wjI" caption="" %}
 
-### 1st step : jump in !
+## 1st step : jump in !
 
 > From conference stage, to workshop, to private community masterclass : introduction to ethereum and DAO
 
@@ -44,7 +44,7 @@ We ended-up the workshop on this slide, which will highly drive the vision model
 
 ![Slockit DAO model presentation \(Nicolas Loubet, CC-BY-NC-SA 4.0\)](../.gitbook/assets/slockit_daomodel.jpeg)
 
-### 2nd step : dig in and homeworking.
+## 2nd step : dig in and homeworking.
 
 > [What's a CellCamp - in french](https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fhanniju%2F03-pr%C3%A9sentation-du-cellcamp%2F) ?
 
@@ -62,11 +62,11 @@ At the end of this 2nd step, which was also the 2nd day of the residence, we kne
 
 ![CellCamp - First mining on ethereum blockchain after Ethereum Install Party \(Nicolas Loubet, CC-BY-NC-SA 4.0\)](../.gitbook/assets/cellcamp_installparty.jpeg)
 
-### 3rd step : working the energy topic !
+## 3rd step : working the energy topic !
 
 **Topic** : use cases to be developped in articulation between [slock.it](https://slock.it/) and any pool of devices necessitating regulation \(it could be energy regulation between peer, or autonomous device regulating its own environment...\). **Note** : in any of the working cases, emitted tokens are watt.h.
 
-#### Use case n°1 : energy with [Open Energy Monitor](https://openenergymonitor.org/) \(OEM\)
+### Use case n°1 : energy with [Open Energy Monitor](https://openenergymonitor.org/) \(OEM\)
 
 ![Rieul Techer, CC-BY-SA](../.gitbook/assets/cellcamp_oem.jpeg)
 
@@ -83,7 +83,7 @@ At the end of this 2nd step, which was also the 2nd day of the residence, we kne
 
 **Note** : in this case, energy quanta \(Wh\) are tokenized.
 
-#### Use case n°2 :  aquaponics module environment regulation
+### Use case n°2 :  aquaponics module environment regulation
 
 **Set-up** : 
 
@@ -95,7 +95,7 @@ At the end of this 2nd step, which was also the 2nd day of the residence, we kne
 
 **Link between the "Energy" and "Aquaponics" use cases** : the aquaponics module requires energy. A contract could link the OEM with the aquaponics module to enhance autonomization of the module and cross rewarding between projet teams.
 
-#### Use Case n°3 : energy atoregulation at the scale of a pool of devices
+### Use Case n°3 : energy atoregulation at the scale of a pool of devices
 
 **Set-up** : 
 
@@ -106,7 +106,7 @@ At the end of this 2nd step, which was also the 2nd day of the residence, we kne
 * if no device produces energy, "reputation-tokens" are traded between devices depending on the deviation to the mean consumption curve value;
 * if overconsumption cannot be compensate within the pool of devices "reputation-tokens" are traded between devices depending on the deviation to the mean consumption curve value.
 
-#### Final use case
+### Final use case
 
 ![Rieul Techer, C-BY-SA](../.gitbook/assets/cellcamp_energy.jpeg)
 
