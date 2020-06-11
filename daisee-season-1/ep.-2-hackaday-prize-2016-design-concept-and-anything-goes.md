@@ -7,3 +7,7 @@ description: >-
 
 # Ep. 2 - Hackaday Prize 2016 : design, concept and anything goes
 
+![Hackaday Prize : Design your concept &amp; Anything Goes](../.gitbook/assets/hackaday-prize-dcag.png)
+
+
+
