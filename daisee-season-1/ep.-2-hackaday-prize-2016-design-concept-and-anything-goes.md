@@ -15,11 +15,13 @@ description: >-
 
 > All problem solving starts with an idea or design concept to lead the way and provide direction for your design decision.
 
-The Design Concept is the idea, it’s how you think about your project, it’s how you go about planning to solve the question you want to solve. It’s how you use your logic and creativity to move your design forward.
+![](../.gitbook/assets/had-design-yuor-concept.png)
 
 ### [Anything goes](https://web.archive.org/web/20160705044827/https://hackaday.io/prize/details)
 
 > You are a non-confirmist, a misfit. You're an independant thinker, a troublemaker, and have no respect for the status quo. Build whatever you want.
+
+![](../.gitbook/assets/had-anything-goes.png)
 
 ## Design of our concept
 
