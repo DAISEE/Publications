@@ -46,8 +46,6 @@ Such a playground gives us the following basic rules to play:
 
 ## **What are the main challenges to tackle ?**
 
-\*\*\*\*
-
 ### _**1- Secure energy data**_
 
 We _could_ access to meaningful and secured energy consumption and production data with monitoring systems like [Open Energy Monitor](https://openenergymonitor.org/emon/) with embedded installed [Ethereum](http://ethereum.org) \(light\) clients to record energy flows on a distributed ledger \(“blockchain”\). This gives the opportunity to secure and validate data, and to access “pseudonymous” consumption and production energy data to facilitate peer-to-peer transactions.
