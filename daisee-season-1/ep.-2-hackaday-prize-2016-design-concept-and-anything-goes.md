@@ -23,7 +23,25 @@ The Design Concept is the idea, it’s how you think about your project, it’s 
 
 ## Design of our concept
 
+The [general proposal of the concept](https://app.gitbook.com/@la-myne/s/daisee-citizen-research-program/daisee-season-1/ep.-1-call-me-daisee-the-hackaday-prize-root-of-the-projet) could be summarized as followed : build the "Internets of Energy" and organise energy as a common by deploying open-source secured decentralized autonomous energy production systems and consumption monitoring relying on micro-grid infrastructures that enable trusted peer-to-peer energy transactions.
 
+The design question would be : do blockchain "technologies" have a role to play in energy transition projects ? and if "yes", what form does it take and how to you shape it ?
+
+![](../.gitbook/assets/step1poc.png)
+
+![](../.gitbook/assets/step2expe.png)
+
+To work out this question, the aim is first to experiment a local micro-electricty sharing network in 3 steps :
+
+* the hardware layer: building the electricity sensors coupled to the IoT device that will enable sensors to talk to the local Ethereum blockchain and make it possible for the sensors to talk to one another;
+* the software layer: connection to the local Ethereum blockchain, and make it possible for sensor to communicate with each other and share data, call a "smart-contrat" that automate the virtual energy transaction and the effective token exchange
+* the infrastructure layer: make the system capable of effectively sharing electricity between peers on the network, in consistency with their actual production and consumption, assuring the global energy balance of the system.
+
+As we will see in the next episode \("Citizen Scientists" adn "Automation"\), we rely on
+
+* [CitizenWatt](https://web.archive.org/web/20160322165735/http://www.citizenwatt.paris/) + [Pine64+](https://www.pine64.org/) + [Arduino](https://www.arduino.cc/) for the hardware part 
+* Local [Ethereum](https://ethereum.org/) nodes + [Smart Contract](https://en.wikipedia.org/wiki/Smart_contract) \(nothing that "smart" nor that "contract" in here in fact\) + Sensors' communication for the software part
+* Production + Consumption + Cables + [Arduino](https://www.arduino.cc/) \(for automated switch\) for the infrastructure part
 
 ## Anything goes : mission to Mars
 
@@ -52,9 +70,16 @@ Then we think that, given the conditions on Mars and the necessity for energy pr
 * The Mars landers Viking I, Viking II, Pathfinder, Opportunity Rover, and Spirit Rover identified aluminium, iron, magnesium, and titanium in the Martian soil" \(see Wikipedia\), confirming that materials on site con be used to build the infrastructure
 * Temperatures are very low, thus enabling more efficiency for electrical distribution systems.
 
-We thought about this Mars project because it makes it possible to really think out of the box the potential application of DAISEE in a both new and known environment: new since it put some more constrains that we are not used to deal with, known because Mars is a planet with limited ressources as we know it on Earth. Thinking and building DAISEE on Mars, enables to think about innovative ways to distribute and exchange energy.
+We thought about this Mars project because it makes you think out of the box the potential application of DAISEE in both a new and a known environment: 
 
-## Towards prototyping peer-to-peer energy exchange
+* new since it put some more constrains that we are not used to deal with, 
+* known because Mars is a planet with limited ressources as we know it on Earth.
+
+Thinking and building DAISEE on Mars, enables to think about innovative ways to distribute and exchange energy.
+
+## Ending note
+
+It turns out that we've been selected from our "Design your concept" proposal along with 20 other top proposal and selected to participate to the final round ! We now have to proove that its worht it ...
 
 
 
