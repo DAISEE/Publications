@@ -9,7 +9,7 @@ description: >-
 
 ![Hackaday Prize : &quot;Design your concept&quot; &amp; &quot;Anything Goes&quot;](../.gitbook/assets/hackaday-prize-dcag.png)
 
-## Preliminary note : what's are the "[Design your concept](https://cloud.lamyne.org/s/LecqqTARZqawjcY)" and "[Anything goes](https://cloud.lamyne.org/s/RGdoEcdezi3d7PS)" challenges about ?
+## Preliminary note : what are the "[Design your concept](https://cloud.lamyne.org/s/LecqqTARZqawjcY)" and "[Anything goes](https://cloud.lamyne.org/s/RGdoEcdezi3d7PS)" challenges about ?
 
 ### [Design your concept](https://web.archive.org/web/20160328233302/https://hackaday.io/prize/details)
 
