@@ -9,7 +9,9 @@ description: >-
 
 ![](../.gitbook/assets/logo_hackadayprize2016.png)
 
-## What's the [Hackaday Prize challenge](https://hackaday.io/contest/10144-the-2016-hackaday-prize) ? "Build Something That Matters"
+## Preliminary note : What's the [Hackaday Prize challenge](https://hackaday.io/contest/10144-the-2016-hackaday-prize) ? 
+
+### "Build Something That Matters"
 
 The Hackaday Prize is empowering hackers, designers, and engineers to use their time to **Build Something that Matters**. For the next five weeks what matters is solving a technology problem. Have an idea to power vehicles without polluting the atmosphere? Great! Want to figure out how to get your washing machine to work better? We want to see that too. Anything goes so design it, prototype it, document it and you could be one of the twenty entries headed to the final round.
 
