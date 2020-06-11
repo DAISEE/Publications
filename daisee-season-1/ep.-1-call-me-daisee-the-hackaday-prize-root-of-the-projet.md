@@ -9,7 +9,7 @@ description: >-
 
 ![](../.gitbook/assets/logo_hackadayprize2016.png)
 
-### From centralized to distributed thinking
+## From centralized to distributed thinking
 
 ![](../.gitbook/assets/centralized.jpg)
 
@@ -43,25 +43,25 @@ The solution that is proposed here to solve those problems is to experiment and 
 
 Like the internets we strongly believe that DISTRIBUTED energy systems will help to develop DECENTRALIZED AUTONOMOUS energy ORGANIZATIONS, thus providing strong and resilient answers to the here-above mentioned challenges.
 
-### **What are the challenges to solve the problem?**
+## **What are the challenges to solve the problem?**
 
-#### _Secure energy data_
+### _Secure energy data_
 
 We _could_ access to meaningful and secured energy consumption and production data with monitoring systems like [Open Energy Monitor](https://openenergymonitor.org/emon/) with embedded installed [Ethereum](http://ethereum.org) \(light\) clients to record energy flows on a distributed ledger \("blockchain"\). This gives the opportunity to secure and validate data and to access "pseudonymous" consumption and production energy data to facilitate transactions.
 
-#### _Reduce energy losses_
+### _Reduce energy losses_
 
 Relying on peer-to-peer energy transaction through micro-grid at the local level makes it possible to significantly reduce energy losses in the grid since electricity does not have to cross the country to reach the consumption point.
 
-#### _Create "short circuits"_
+### _Create "short circuits"_
 
 Locally distributed energy systems that are interconnected one to another make it possible to take full advantage of diffuse local resources \(sun, wind, hydro, electro-chemical electricity production - from plants and bacteria...\) while strengthening the resilience of the system, since what's produced locally is locally consumed.
 
-#### _Open energy governance_
+### _Open energy governance_
 
 Consumers are part of the equation, if not the central and main actor while talking about energy. A distributed system makes it possible to switch from pure consumer to "prosumers", giving a way for people to be involved in energy governance. Not only this helps to tackle on-ground needs but also to make energy a palpable good.
 
-### **What is the mission of DAISEE in this context?**
+## **What is the mission of DAISEE in this context?**
 
 DAISEE's mission is to build the "Internets of Energy" and organise energy as a common. We have to deploy open-source secured decentralized autonomous energy production systems and consumption monitoring, in line with building micro-grid infrastructures, thus enabling trusted peer-to-peer energy transactions.
 
@@ -75,14 +75,14 @@ There are 3 packages in the master plan:
 
 ![The Decentralized Autonomous energy Organizations \(DAOs\) are Ethereum based.](../.gitbook/assets/step2expe.png)
 
-### **What are the provisional development steps?**
+## **What are the provisional development steps?**
 
 1. Energy monitoring : set up sensors, check various data transfer and data.
 2. Make the sensor communicate: install an ethereum client on two sensors and make them communicate through a basic smart contract on the blockchain
 3. Make things work with a sensor in each house and test the first transactions.
 4. Make things work between more than two houses \(and deploy micro-grids\)
 
-### **What is the mission statement of DAISEE?**
+## **What is the mission statement of DAISEE?**
 
 **Our vision**: everyone will be an energy "prosumer" and will share energy data and deal energy within a decentralized, trusted and secured global infrastructure.
 
@@ -96,7 +96,7 @@ There are 3 packages in the master plan:
 * **Cellabz** is a 'labs builder' who combine blockchain with emerging technologies.
 * **CitizenWatt** is a community who builds low-cot open-source energy monitoring and data viz systems. It aims at redefine the smart energy monitor as we know it towards acceptable eco-feedback technologies that are non-intrusive, and individual control and autoregulation of energy consumption.
 
-### **Who are the people at the initiative?**
+## **Who are the people at the initiative?**
 
 * [**Rieul Techer**](https://fr.linkedin.com/in/rieultecher): energy guy, entrepreneur and passionate about - civic and technology - innovation. At the edge of the possible and the real.
 * [**Paul Flipo**](https://fr.linkedin.com/in/paul-flipo-b2bb667/fr): hardware guy, open source fan, unstoppable traveller.
@@ -107,7 +107,7 @@ There are 3 packages in the master plan:
 * [**Timothée Gosselin**](https://fr.linkedin.com/in/timothÃ©e-gosselin-14264b25): co-founder / builder of [**OSCEDays**](http://osced2015.org/) community.
 * [**Nicolas Loubet**](https://twitter.com/nicolasloubet?lang=fr) & [**Clement Epié**](https://twitter.com/clement_epie): co-founders of Cellabz. Curious.
 
-### **We feel close to these teams/communities**
+## **We feel close to these teams/communities**
 
 * [**Open Energy Monitor**](http://openenergymonitor.org/)
 * [**Slock.it**](http://slock.it)
@@ -117,7 +117,7 @@ There are 3 packages in the master plan:
 * **Hackaday hackers!**
 * **...**
 
-### **Inspiring Blockchain based Energy Projects**
+## **Inspiring Blockchain based Energy Projects**
 
 * [Brooklyn Microgrid](http://brooklynmicrogrid.com/) \([LO3 Energy](http://lo3energy.com)\)
 * [Cotricity](https://co-tricity.com/en/about-co-tricity/) \([ConsenSys](http://consensys.net) & [Innogy](https://innovationhub.innogy.com)\)
@@ -125,7 +125,7 @@ There are 3 packages in the master plan:
 * [Solar Coin](http://solarcoin.org/) & [ElectriCChain](http://www.electricchain.org/)
 * [Power Ledger](http://powerledger.io)
 
-### **There are still unanswered questions...**
+## **There are still unanswered questions...**
 
 * What is the right economic model between the houses ? Which features, deal should be implemented in the smart contract ?
 * how do we deal with the necessary energy governance ? To solve: in this configuration, we still need some kind of network regulation/governance, so that there is enough energy available for everyone to buy \(or that the produced energy will be used\). Batteries/energy storage ? The governance between actors is managed via the blockchain, but the "energy governance" must still be managed/solved somehow.

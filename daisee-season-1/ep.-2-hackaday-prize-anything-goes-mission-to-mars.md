@@ -7,3 +7,7 @@ description: >-
 
 # Ep. 2 - Hackaday Prize : anything goes, mission to Mars
 
+{% embed url="https://youtu.be/uJu1nMimi1M" %}
+
+
+
