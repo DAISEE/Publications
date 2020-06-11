@@ -21,5 +21,7 @@ The Design Concept is the idea, it’s how you think about your project, it’s 
 
 > You are a nonconfirmist, a misfot. You're an independant thinker, a troublemaker, and have no respect for the status quo. Build wahtever you want.
 
+## Design of our concept
+
 
 
