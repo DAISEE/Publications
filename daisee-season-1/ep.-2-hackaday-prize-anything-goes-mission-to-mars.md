@@ -5,7 +5,7 @@ description: >-
   4.0).
 ---
 
-# Ep. 2 - Hackaday Prize : anything goes, mission to Mars
+# Ep. 2 - Hackaday Prize : design, concept and anything goes
 
 {% embed url="https://youtu.be/uJu1nMimi1M" %}
 
