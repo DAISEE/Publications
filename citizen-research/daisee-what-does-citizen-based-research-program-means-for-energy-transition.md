@@ -44,7 +44,7 @@ In other words, the overall program aims at deepening knowledge in three layers 
 
 All three of those layers embed multi-fields and transdisciplinary technical and social scientific issues all pointing to a political and social entry point: the governance of energy. Within the scope of the post-doctoral project, the aim is to focus on the third layer \(the physical infrastructure\) and its design and development for high renewable penetration on a local grid with multiple energy usage, while being supported by the work on the the first and second levels that will help building the overall infrastructure for an agile interoperable citizen-governed power system.
 
-### Going beyond state-of-the-art. <a id="going-beyond-state-of-the-art"></a>
+## Going beyond state-of-the-art.
 
 A **Citizen-Governed Data Platform \(CGDP\)** has not yet been explored to manage the power system: if both demand and offer side management has been the topic of extended research, it has been either through the techno-control and centralized decisional power, or through the social and economic incentivization and campaign awareness dynamics for either lowering consumption or consuming green energy. Some dispersed, and yet to be developed research projects, are starting to bridge social governance of energy infrastructures and technical grid and peer negotiation for common energy management \(Moret, Pinson 2017, project - Mihaylov et al., 2016\). However, still few research projects address the question through the complexity of autonomously managing energy as a common resources through shared governance at the local grid scale; meaning the technical and social/political issues but also the legal and economic stakes.
 
@@ -54,7 +54,7 @@ The aim of the research project is to go beyond the various technical optimizati
 
 Consequently, the core of the research project which is **the local energy balance in the case of high renewable penetration on the grid through a Citizen-Governed-Data-Platform based management** appears as unique in the field and goes beyond the state-of-the-art, while working at integrating the various models described in the litterature for energy management in both modelisation, simulation and tool development approaches.
 
-### Innovative nature of the research proposal <a id="innovative-nature-of-the-research-proposal"></a>
+## Innovative nature of the research proposal
 
 Part of the DAISEE project is attached in building such a CGDP and has already organized several meetings and workshops on site, at Prats-de-Mollo, with the local utility and about 20 citizens involved in the project as well as the local government.
 
@@ -72,7 +72,7 @@ The innovative nature of the experimentation research project also resides in th
 * a **non-standard and high quality environment** aiming at producing open-knowledge and science in the case of situated research on concrete experimentation field within a highly connected network of curious minds, experts, other research institutes and fields, civil society and civictech movement, high-end technological companies as well as open-culture communities ...;
 * an approach of energy and grid management that thinks and builds the transition of energy systems as part of **industrial and societal paradigm shift**.
 
-### DAISEE: Citizen research <a id="daisee-citizen-research"></a>
+## DAISEE: Citizen research
 
 The DAISEE’s methodology is based upon globally distributed contributive non-standard research network. The working process in the case of the DAISEE research program is situated and directly link to scientific problematic and experimentation necessity on field
 
@@ -101,7 +101,7 @@ In the case of our contributive residencies for instance, methodology process ca
 * Grassroots experience
 * Capitalization of knowledge and experiences
 
-### Some bibliographical references <a id="some-bibliographical-references"></a>
+## Some bibliographical references
 
 * Abikarram, Jose Batista, and Katie McConky. 2017. “Real Time Machine Coordination for Instantaneous Load Smoothing and Photovoltaic Intermittency Mitigation.” ​ Journal of Cleaner Production ​ 142 \(January\):1406–16
 * Amato A., et al., 2015 "Design and evaluation of P2P overlays for energy negotiation in smart micro-grid", Comput. Stand. Interfaces \(2015\)
