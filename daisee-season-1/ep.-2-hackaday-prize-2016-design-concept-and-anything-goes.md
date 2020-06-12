@@ -1,8 +1,8 @@
 ---
 description: >-
   This article is a mash-up of posts initially published for the Hackaday Prize
-  (https://hackaday.io/project/10879/logs?sort=oldest).  CC-BY-SA (International
-  4.0).
+  (https://hackaday.io/project/10879/logs?sort=oldest) around the 19/07/2016. 
+  CC-BY-SA (International 4.0).
 ---
 
 # Ep. 2 - Design, concept and anything goes \[HaD Prize 2016\]

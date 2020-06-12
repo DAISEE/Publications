@@ -20,4 +20,5 @@
 * [Ep. 2 - Design, concept and anything goes \[HaD Prize 2016\]](daisee-season-1/ep.-2-hackaday-prize-2016-design-concept-and-anything-goes.md)
 * [Ep. 3 - Citizen scientists and automation, the way to prototyping \[HaD Prize 2016\]](daisee-season-1/ep.-3-citizen-scientists-and-automation-the-way-to-prototyping-had-prize-2016.md)
 * [Ep.4 - Final : Blockchain is fun... but what's next for energy?! \[HaD Prize 2016\]](daisee-season-1/ep.4-final-blockchain-is-fun...-but-whats-next-for-energy-had-prize-2016.md)
+* [Bonus - Can we afford the autonomy of Information-Space ?](daisee-season-1/bonus-can-we-afford-the-autonomy-of-information-space.md)
 

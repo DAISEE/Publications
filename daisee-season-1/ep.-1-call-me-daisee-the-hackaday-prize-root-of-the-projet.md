@@ -1,8 +1,8 @@
 ---
 description: >-
   Initially published for the Hackaday Prize 
-  (https://hackaday.io/project/10879-2016-internets-of-energy-call-me-daisee/details). 
-  CC-BY-SA (International 4.0).
+  (https://hackaday.io/project/10879-2016-internets-of-energy-call-me-daisee/details)
+  on the 11/04/2016.  CC-BY-SA (International 4.0).
 ---
 
 # Ep. 1 - Hackaday Prize 2016 : "Call Me DAISEE" or the root of the program
