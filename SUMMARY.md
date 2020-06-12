@@ -22,3 +22,7 @@
 * [Ep.4 - Final : Blockchain is fun... but what's next for energy?! \[HaD Prize 2016\]](daisee-season-1/ep.4-final-blockchain-is-fun...-but-whats-next-for-energy-had-prize-2016.md)
 * [Bonus - Can we afford the autonomy of Information-Space ?](daisee-season-1/bonus-can-we-afford-the-autonomy-of-information-space.md)
 
+## DAISEE - Season 2
+
+* [To be continued ...](daisee-season-2/to-be-continued-....md)
+
