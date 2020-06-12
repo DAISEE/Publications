@@ -32,7 +32,7 @@ Two "camps" at the cross border of citizen science and automation has structured
 
 Those camps are actually part of  broader camps :
 
-* A [multi-sites SummerCamp](https://hackpad.com/SummerCamp-2016-Carnet-de-bord-LxNyipOhh0I) initiated by friends from [Le Biome](http://lebiomefablab.wixsite.com/lebiome)
+* A [multi-sites SummerCamp](https://web.archive.org/web/20170101035424/https://hackpad.com/IndieLabCamp-Carnet-de-bord-LxNyipOhh0I) initiated by friends from [Le Biome](http://lebiomefablab.wixsite.com/lebiome)
 * A design purpose camp call DozeCamp, related to the link between nature, humans and technology, in the context of the coming [International Biennale du Design 2017](http://www.biennale-design.com/saint-etienne/)
 
 ### CitizenWatt Camp : citizen energy sensor development
@@ -88,9 +88,9 @@ As part of the development of some bricks of the DAISEE program, two of the main
 
 Preliminary steps we required to adress the mining capacity on Raspberry PI 3 or any other supporting device :
 
-* _For the_ [_**Ethereum Installation \(RaspberryPi\)**_](https://hackpad.com/DAISEE-Ethereum-Install-RaspberryPi-N60aExvyCPC) _**using GETH** and an_ [_**alternative way for the Installation of an Ethereum node on a Raspberry Pi**_](https://hackpad.com/DAISEE-Installation-dEthereum-sur-RaspberryPi-parity-RMpwqLyOwSq) _**using PARITY**_
-* _For the_ [_**Design & Deployment of SmartContrat Peer-to-peer Energy**_](https://hackpad.com/DAISEE-Design-Deploy-SmartContrat-Peer-to-peer-Energy-o1vtMr8RW73)
-* _For the_ [_**Design & Deployment of DApp**_](https://hackpad.com/DAISEE-Design-Deploy-App-sTLyhw9iOaO)
+* _For the_ [_**Ethereum Installation \(RaspberryPi\)**_](https://web.archive.org/web/20170101035456/https://hackpad.com/DAISEE-Ethereum-Install-sur-un-Pi-N60aExvyCPC) _**using GETH** and an_ [_**alternative way for the Installation of an Ethereum node on a Raspberry Pi**_](https://web.archive.org/web/20170101035517/https://hackpad.com/DAISEE-Ethereum-Install-sur-Pi-via-Parity-RMpwqLyOwSq) _**using PARITY**_
+* _For the_ [_**Design & Deployment of SmartContrat Peer-to-peer Energy**_](https://web.archive.org/web/20170101035428/https://hackpad.com/DAISEE-Design-et-dploiment-de-smart-contrats-dnergie-pair-pair-o1vtMr8RW73)
+* _For the_ [_**Design & Deployment of DApp**_](https://web.archive.org/web/20170101035338/https://hackpad.com/DAISEE-Dploiement-dune-App-sTLyhw9iOaO)
 
 For a DApp demo, see
 
@@ -100,7 +100,7 @@ For a DApp demo, see
 
 We do not have so much trouble to make Raspberry PI working like an ethereum node of a common private blockchain. Our issues come from the fact that in order for the nodes to participate to the validation and transmission of blocks to the common private blockchain, it is necessary for this node to have mined at least once to generate the DAG file \(necessary for the propagation of the blocks in the blockchain\). The fact is that for the moment raspberry pi \(1, 2 or 3\) does not have enough power to mine.
 
-[**Here are some of the trials**](https://hackpad.com/DAISEE-2e-DAISEECamp-0816-VyMwEnbsRqA#:h=6.3--Tentatives) made to overcome this issue:
+[**Here are some of the trials**](https://web.archive.org/web/20170101035346/https://hackpad.com/DAISEE-2e-DAISEECamp-0816-VyMwEnbsRqA) made to overcome this issue:
 
 * Increase the swap memory of the card
 * Generate the DAG file without mining \(meaning to generate the DAG file on a computer and copy it onto the Raspberry card\)
@@ -109,7 +109,7 @@ None of those tests are conclusive. As a result, we've decided that it could int
 
 ![](../.gitbook/assets/pine64+.jpg)
 
-After installing an Ethereum Node onto the **PINE64+** it turns out that... **MINING WORKS** and **PROPAGATION of the the blockchain also WORKS;** documentation is [**HERE**](https://hackpad.com/DAISEE-Installation-Ethereum-et-CitizenWatt-sur-un-Pine64-CCIvAqntMVV).
+After installing an Ethereum Node onto the **PINE64+** it turns out that... **MINING WORKS** and **PROPAGATION of the the blockchain also WORKS;** documentation is [HERE](https://web.archive.org/web/20170102015738/https://hackpad.com/DAISEE-Installation-dEthereum-et-CitizenWatt-sur-une-carte-Pine64-CCIvAqntMVV).
 
 ## Enhancing citizen science and automation : hackathons, meet-up and working groups
 
